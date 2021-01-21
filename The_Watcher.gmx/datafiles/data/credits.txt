@@ -1,0 +1,16 @@
+Created & Developed By: Nicholas Evans
+Story By: Nicholas Evans
+Level Design By: Nicholas Evans
+Sprites By: Nicholas Evans
+Sounds By:
+    - Nicholas Evans
+    - Freesound.org (Creative Commons 0)
+    - "Ambience, London Street, A.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org (Modified)
+    - "ATM-Withdrawl.wav" by amabok of Freesound.org (Modified)
+    - "metal_locker.wav" by Peacewaves of Freesound.org (Modified)
+    - "UI Click" by EminYildirim of Freesound.org (Modified)
+    - "Modem-sex.wav" by x.3d.gime of Freesound.org (Modified)
+News Articles
+    - https://www.wired.com/story/ways-facebook-tracks-you-limit-it/
+    - https://www.ctvnews.ca/business/companies-are-finding-new-ways-to-track-workers-at-home-
+      but-are-they-going-too-far-1.4944907

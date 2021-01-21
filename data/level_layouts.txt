@@ -1,0 +1,25 @@
+Level 0
+	# NPCs - 5
+	
+Level 1
+	# NPCs - 8
+	
+Level 2
+	# NPCs - 12
+	Location - Locker Room/Reception Area
+	
+Level 3
+	# NPCs - 10
+	Location - Mall Stores
+
+Level 4
+	# NPCs - 14
+	Location - Supermarket
+
+Level 5
+	# NPCs - 8
+	Location - Park and Fountain
+	
+Level 6
+	# NPCs - 10
+	Location - Subway Station

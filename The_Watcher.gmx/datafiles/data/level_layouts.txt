@@ -1,0 +1,38 @@
+Level 0
+	# NPCs - 5
+
+Level 1
+	# NPCs - 4
+	Location - Subway station
+	Objectives - Blow up subway
+	Unlocks - Jobs
+	
+Level 2
+	# NPCs - 4
+	Location - Office
+	Objectives - Hack Server
+	Unlocks - N/A
+	
+Level 3
+	# NPCs - 8
+	Location - Bank
+	Objectives - Sabotage ATMS
+	Unlocks - Status
+	
+Level 4
+	# NPCs - 6
+	Location - Gym
+	Objectives - Smuggle Drugs
+	Unlocks - Disrupt and Chat
+	
+Level 5
+	# NPCs - 7
+	Location - Downtown/Alley
+	Objectives - Meeting for secrets
+	Unlocks - Crime
+	
+Level 6
+	# NPCs - 4
+	Location - House
+	Objectives - Enjoy day
+	Unlocks - N/A
