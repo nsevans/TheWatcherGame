@@ -1,0 +1,33 @@
+Programmer
+Cashier
+Student
+Teacher
+Manager
+H.R. Management
+Accountant
+Actor
+Entrepreneur
+Engineer
+I.T.
+Delivery Driver
+Doctor
+Nurse
+Photographer
+Truck Driver
+Writer
+Librarian
+Bank Teller
+Chef
+Bartender
+Waiter
+Pharmacist
+Developer
+Firefighter
+Lawyer
+Judge
+Mailman
+Receptionist
+Mechanic
+Detective
+Private Investigator
+Spy

@@ -1,0 +1,7 @@
+N/A;N/A;N/A
+Wait for train;Mess with train controls;Plant bomb in train
+Get access card for office;Hack into computer;Download company secrets
+Sabotage ATM 1;Sabotage ATM 2;Sabotage ATM 3
+Take money out of ATM;Collect drugs from vending machine;Put drugs in locker
+Collect information from computer;Place information in vending machine;Meet with contact
+Enjoy day;Do some work;Go for a walk

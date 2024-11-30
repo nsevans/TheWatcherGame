@@ -1,0 +1,7 @@
+Garry H.;20;Cashier;50000;Married;N/A
+R;21;Chemical Engineer;43000;Divorced;Loitering
+R;66;Programmer;185000;Single;Identity Theft
+R;44;Unemployed;45000;Single;Robbery
+R;33;Fitness Instructor;133000;Divorced;Drug Possession & Distribution
+R;38;Private Investigator;85000;Married;Stalking
+Nick E.;42;Programmer;73000;Married;N/A
