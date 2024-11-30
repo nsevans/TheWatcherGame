@@ -166,3 +166,6 @@ pip-log.txt
 # Extras
 Design Doc v1/
 Design Doc v2/
+*.pdf
+*.doc
+*.docx
